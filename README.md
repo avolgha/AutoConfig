@@ -2,6 +2,8 @@
 
 > Generate JSON-Configuration-Files automatically without writing any JSON by yourself
 
+[![Java CI with Maven](https://github.com/avolgha/AutoConfig/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/avolgha/AutoConfig/actions/workflows/maven.yml)
+
 ## How to use
 
 It's very easy! Just create a normal Java-Class-File and annotate it with the ``dev.marius.autoconfig.Config``
